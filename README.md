@@ -9,4 +9,6 @@ turbopump. Predicted thrust is going to be around 638N.
 The throat diameter is 10mm. The engine is going to be
 cooled using a regenerative cooling system.
 
+Thingiverse Link: https://www.thingiverse.com/thing:6751428
+
 ![2](https://github.com/user-attachments/assets/aedfd4ff-e0c8-4af4-b597-bc86c3472494)
